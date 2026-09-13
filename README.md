@@ -184,8 +184,8 @@ This project is licensed under the **MIT License**.
 
 - 🌐 Portfolio: https://aftablone98.github.io/portfolio/
 - 💻 GitHub: https://github.com/aftablone98
-- 💼 LinkedIn: *(Add your LinkedIn profile URL)*
-- 📧 Email: *(Add your email address)*
+- 💼 LinkedIn: https://www.linkedin.com/in/aftablone/
+- 📧 Email: aftablone377@gmail.com
 
 ---
 
